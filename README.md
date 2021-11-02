@@ -26,7 +26,7 @@ Incluye:
 ### Versión: 1.0.0
 
 ### Notas:
-Comando para ejecutar la aplicación:
+Comando para ejecutar la aplicación en desarrollo:
 ```
 npm start
 ```

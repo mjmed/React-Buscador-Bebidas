@@ -21,6 +21,7 @@ Incluye:
     - [**Endpoint: Filter by Category and Ingredient**](https://www.thecocktaildb.com/api/json/v1/1/filter.php?i=Vodka&c=Ordinary_Drink)
     - [**Endpoint: Lookup full cocktail details by id**](https://www.thecocktaildb.com/api/json/v1/1/lookup.php?i=11007)
 
+### URL de la app: [https://mjmed.github.io/React-Buscador-Bebidas/](https://mjmed.github.io/React-Buscador-Bebidas/)
 
 ### Versión: 1.0.0
 
